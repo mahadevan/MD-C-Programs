@@ -20,6 +20,7 @@ void main()
     }
   }
   if(NUM1==SUM2 && NUM2==SUM1)
+  {
     printf("\n%d AND %d ARE AMICABLE NUMBERS",NUM1,NUM2);
   }
   else
